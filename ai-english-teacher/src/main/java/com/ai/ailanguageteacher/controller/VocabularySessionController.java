@@ -8,7 +8,7 @@ import lombok.RequiredArgsConstructor;
 import org.springframework.web.bind.annotation.*;
 
 @RestController
-@RequestMapping("/cha/vocabulary/session")
+@RequestMapping("/chat/vocabulary/session")
 @RequiredArgsConstructor
 public class VocabularySessionController {
 
